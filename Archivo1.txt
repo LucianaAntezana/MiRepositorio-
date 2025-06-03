@@ -1,1 +1,2 @@
 Este es el contenido inicial de Archivo1.
+Esta es una nueva línea para Archivo1, desde la rama experimento.
